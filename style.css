@@ -1,0 +1,32 @@
+{
+    margin  0;
+    padding  0;
+}
+body{
+    background: rgb(1, 0, 0);   
+    color: rgb(255, 255, 255);
+    }
+    header{
+     display: flex;
+    justify-content: center;
+    }
+    .Logo, .Top_menu
+    display: inline-block;
+    Top_menu li{
+        display: inline-block;
+    }
+    .Top_menu a{
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+    .Logo h1{
+     font-family: monospace;
+     font-size: 20px;
+     color: white;
+
+}
+    
+
+    
